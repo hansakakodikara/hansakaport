@@ -13,7 +13,7 @@ body {
 .navbar {
   margin: 20px;
   padding: 20px 40px;
-  background: #ADD8E6;
+  background:purple;
   border-radius: 30px;
   display: flex;
   justify-content: space-between;
